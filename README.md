@@ -48,9 +48,9 @@ Neste projeto, verificamos se você é capaz de:
 
   1. Clone o repositório
 
-  - Use o comando: `git clone git@github.com:tryber/csharp-0x-projeto-aluguel-de-carros.git`.
+  - Use o comando: `git clone git@github.com:tryber/csharp-001-projeto-aluguel-de-carros.git`.
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd csharp-0x-projeto-aluguel-de-carros`
+    - `cd csharp-001-projeto-aluguel-de-carros`
 
   2. Instale as dependências
   
@@ -65,7 +65,7 @@ Neste projeto, verificamos se você é capaz de:
     - Exemplo: `git checkout master`
   - Agora crie uma branch à qual você vai submeter os `commits` do seu projeto.
     - Você deve criar uma branch no seguinte formato: `nome-de-usuario-nome-do-projeto`
-    - Exemplo: `git checkout -b joaozinho-csharp-0x-projeto-aluguel-de-carros`
+    - Exemplo: `git checkout -b joaozinho-csharp-001-projeto-aluguel-de-carros`
 
   4. Adicione as mudanças ao _stage_ do Git e faça um `commit`
 
@@ -82,11 +82,11 @@ Neste projeto, verificamos se você é capaz de:
 
   5. Adicione a sua branch com o novo `commit` ao repositório remoto
 
-  - Usando o exemplo anterior: `git push -u origin joaozinho-csharp-0x-projeto-aluguel-de-carros`.
+  - Usando o exemplo anterior: `git push -u origin joaozinho-csharp-001-projeto-aluguel-de-carros`.
 
   6. Crie um novo `Pull Request` _(PR)_
 
-  - Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/csharp-0x-projeto-aluguel-de-carros/pulls).
+  - Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/csharp-001-projeto-aluguel-de-carros/pulls).
   - Clique no botão verde _"New pull request"_.
   - Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**.
   - Coloque um título para a sua _Pull Request_.
@@ -94,7 +94,7 @@ Neste projeto, verificamos se você é capaz de:
   - Clique no botão verde _"Create pull request"_.
   - Adicione uma descrição para o _Pull Request_ e clique no botão verde _"Create pull request"_.
   - **Não se preocupe em preencher mais nada por enquanto!**.
-  - Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/csharp-0x-projeto-aluguel-de-carros/pulls) e confira que o seu _Pull Request_ está criado.
+  - Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/csharp-001-projeto-aluguel-de-carros/pulls) e confira que o seu _Pull Request_ está criado.
 
 </details>
 
@@ -434,7 +434,7 @@ Crie sua lógica em src/RentCars/Types/Models/Rent.cs
 Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário.
 **Leva menos de 3 minutos!**
 
-[Formulário de avaliação do projeto](https://be-trybe.typeform.com/to/ZTeR4IbH)
+[Formulário de avaliação do projeto](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_hidden=CH1&template=betrybe/csharp-0x-projeto-aluguel-de-carros)
 
 </details>
   
