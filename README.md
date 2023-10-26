@@ -426,25 +426,6 @@ Crie sua lógica em src/RentCars/Types/Models/Rent.cs
 
 </details>
 
-
-
-<details>
-<summary><strong>🗣 Nos dê feedbacks sobre o projeto!</strong></summary>
-
-Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário.
-**Leva menos de 3 minutos!**
-
-[Formulário de avaliação do projeto](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_hidden=CH1&template=betrybe/csharp-0x-projeto-aluguel-de-carros)
-
-</details>
-  
-<details>
-<summary><strong>🗂 Compartilhe seu portfólio!</strong></summary>
-
-Você sabia que o LinkedIn é a principal rede social profissional e compartilhar o seu aprendizado lá é muito importante para quem deseja construir uma carreira de sucesso? Compartilhe esse projeto no seu LinkedIn, marque o perfil da Trybe (@trybe) e mostre para a sua rede toda a sua evolução.
-
-</details>
-
 ---
 
 <!-- mdi versão 1.1 projeto ⚠️ não exclua esse comentário -->
